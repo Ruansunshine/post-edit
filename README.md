@@ -1,4 +1,4 @@
-# Projeto Final ara uma startup
+# Projeto Final para uma startup
 
 ## Comandos para iniciar o projeto
 
